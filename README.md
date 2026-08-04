@@ -77,4 +77,58 @@ This project involved planning and presenting an interactive dashboard for a fic
 - KPI selection
 - Presenting analytical findings
 
-More SQL and Python projects will be added to this portfolio.
+## Python Camden Trees Data Analysis
+
+This project uses Python and pandas to examine tree data supplied for Camden. The analysis focuses on understanding the datasets, checking data quality and identifying issues that could affect future reporting.
+
+### Tasks completed
+
+- Loaded data from Excel, CSV and JSON files
+- Explored the structure, columns and data types of each dataset
+- Reviewed qualitative and quantitative variables
+- Calculated descriptive statistics
+- Checked for missing values
+- Identified possible outliers
+- Found duplicate tree identifiers
+- Reviewed geolocation data and plotted tree locations
+- Identified trees recorded outside the expected Camden area
+- Checked for unmatched records across the tree, environmental and common-name datasets
+
+### Key findings
+
+- Six duplicate tree records were identified
+- Eight tree records appeared to be outside Camden
+- Twenty-three trees had no matching environmental data
+- Seventy-six trees had no matching common-name data
+- No environmental records were missing a matching tree record
+
+### Supporting documentation
+
+The project also includes:
+
+- A data-requirements document showing how the data could support tree-walk brochures, environmental reporting and public tree information
+- A data-source list recording the original source, file format, extraction method, sensitivity and ownership of each dataset
+- A project-lifecycle presentation explaining the wider data-analysis process
+
+### Tools used
+
+- Python
+- pandas
+- Jupyter Notebook
+- Google Colab
+- Matplotlib
+- Excel, CSV and JSON data
+
+### Skills demonstrated
+
+- Data loading and inspection
+- Data cleaning
+- Descriptive analysis
+- Missing-value checks
+- Duplicate detection
+- Outlier investigation
+- Geospatial data review
+- Cross-dataset validation
+- Communicating data-quality findings
+
+More SQL projects will be added to this portfolio.
