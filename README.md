@@ -39,4 +39,42 @@ This project analyses energy-demand data to identify patterns and trends.
 - Presenting findings
 - Communicating insights
 
-More SQL, Python and dashboard projects will be added to this portfolio.
+## Dental Pharma Tableau Dashboard
+
+This project involved planning and presenting an interactive dashboard for a fictional pharmaceutical company.
+
+### Tasks completed
+
+- Reviewed business and user requirements
+- Created a dashboard blueprint
+- Designed an initial wireframe and mock-up
+- Planned filters for country, region and project
+- Identified cost, duration and delivery performance metrics
+- Presented the final dashboard approach and data-lifecycle process
+
+### Key dashboard areas
+
+- Countries over planned cost
+- Countries over planned duration
+- Countries under delivering
+- Financial performance over time
+- Project duration by country and phase
+
+### Tools used
+
+- Tableau
+- Microsoft Excel
+- Mokkup.ai
+- Microsoft PowerPoint
+- Dashboard planning and wireframing
+
+### Skills demonstrated
+
+- Translating business requirements into visualisations
+- Dashboard planning
+- Stakeholder-focused reporting
+- Data visualisation
+- KPI selection
+- Presenting analytical findings
+
+More SQL and Python projects will be added to this portfolio.
