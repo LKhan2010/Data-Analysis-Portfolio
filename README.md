@@ -131,4 +131,51 @@ The project also includes:
 - Cross-dataset validation
 - Communicating data-quality findings
 
-More SQL projects will be added to this portfolio.
+## SQLite Social Media Data Analysis
+
+This project uses SQLite, Python and pandas to analyse social-media data stored across three related tables: users, posts and comments.
+
+### Tasks completed
+
+- Reviewed the database structure using an entity relationship diagram
+- Identified primary and foreign keys
+- Loaded CSV data into a SQLite database
+- Used pandas to support data handling
+- Ran single-table and multi-table SQL queries
+- Investigated post, comment and user activity
+- Ranked results and created calculated fields
+- Checked for duplicate rows and data-quality issues
+- Considered privacy, ethics and UK GDPR requirements
+- Documented how the project fits into the data-analysis lifecycle
+
+### Database structure
+
+The project uses three related tables:
+
+- `Users`
+- `Posts`
+- `Comments`
+
+The tables are linked through user and post identifiers, allowing activity to be analysed across the database.
+
+### Tools used
+
+- SQLite
+- SQL
+- Python
+- pandas
+- Jupyter Notebook
+- SQL Magic
+- Entity relationship diagrams
+
+### Skills demonstrated
+
+- Relational database analysis
+- SQL querying
+- Table joins
+- Primary and foreign key identification
+- Data loading
+- Data-quality checking
+- Ranking and calculated fields
+- Database documentation
+- Privacy and ethical data handling
