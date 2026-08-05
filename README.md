@@ -68,6 +68,14 @@ This project involved planning and presenting an interactive dashboard for a fic
 - Microsoft PowerPoint
 - Dashboard planning and wireframing
 
+- ### Files
+
+- [Dashboard_Blueprint.docx](Tableau-Project/Dashboard_Blueprint.docx) – dashboard planning document
+- [Dashboard_Mockup.pdf](Tableau-Project/Dashboard_Mockup.pdf) – dashboard wireframe and mock-up
+- [Dashboard_Notes.odt](Tableau-Project/Dashboard_Notes.odt) – supporting project notes
+- [Dashboard_Presentation.pptx](Tableau-Project/Dashboard_Presentation.pptx) – final dashboard presentation
+- [Project_Lifecycle_Presentation.odp](Tableau-Project/Project_Lifecycle_Presentation.odp) – data-lifecycle presentation
+
 ### Skills demonstrated
 
 - Translating business requirements into visualisations
