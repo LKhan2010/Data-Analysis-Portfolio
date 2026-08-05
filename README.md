@@ -116,7 +116,6 @@ The project also includes:
 
 - A data-requirements document showing how the data could support tree-walk brochures, environmental reporting and public tree information
 - A data-source list recording the original source, file format, extraction method, sensitivity and ownership of each dataset
-- A project-lifecycle presentation explaining the wider data-analysis process
 
 ### Tools used
 
@@ -126,6 +125,12 @@ The project also includes:
 - Google Colab
 - Matplotlib
 - Excel, CSV and JSON data
+
+- ### Files
+
+- [Jupyter_Notebook.ipynb](Python-Project/Jupyter_Notebook.ipynb) – Python data analysis notebook
+- [Data_Requirements.docx](Python-Project/Data_Requirements.docx) – project data requirements
+- [Data_Source_List.docx](Python-Project/Data_Source_List.docx) – data sources and ownership details
 
 ### Skills demonstrated
 
