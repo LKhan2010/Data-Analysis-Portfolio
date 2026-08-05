@@ -181,6 +181,13 @@ The tables are linked through user and post identifiers, allowing activity to be
 - SQL Magic
 - Entity relationship diagrams
 
+  ### Files
+
+- [Chat_Data_Analysis.ipynb](SQL-Project/Chat_Data_Analysis.ipynb) – SQLite and SQL analysis notebook
+- [ERD.pdf](SQL-Project/ERD.pdf) – entity relationship diagram
+- [Data_Lifecycle.ppt](SQL-Project/Data_Lifecycle.ppt) – data-lifecycle presentation
+- [SQL_Project_Notes.odt](SQL-Project/SQL_Project_Notes.odt) – supporting project notes
+
 ### Skills demonstrated
 
 - Relational database analysis
