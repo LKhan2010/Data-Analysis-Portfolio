@@ -27,8 +27,8 @@ This project analyses energy-demand data to identify patterns and trends.
 
 ### Files
 
-- `Khan_Lubna_1_workbook_16102023.xlsx` – completed Excel analysis
-- `Khan_Lubna_1_workbook_16102023.pptx` – supporting presentation
+- [Workbook.xlsx](Excel-Project/Workbook.xlsx) – completed Excel analysis
+- [Workbook_Presentation.pptx](Excel-Project/Workbook_Presentation.pptx) – supporting presentation
 
 ## Skills Demonstrated
 
