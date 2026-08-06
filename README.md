@@ -199,3 +199,9 @@ The tables are linked through user and post identifiers, allowing activity to be
 - Ranking and calculated fields
 - Database documentation
 - Privacy and ethical data handling
+
+## Training and Certification
+
+I completed a Data Analyst Skills Bootcamp and additional training in Microsoft Excel, relational database modelling and data literacy.
+
+[View my data training certificates](./Training-Certificates%20Data)
